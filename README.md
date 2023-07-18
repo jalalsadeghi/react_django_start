@@ -2,8 +2,7 @@
 
 This is a simple React project that I prepared to communicate with the [django_start](https://github.com/jalalsadeghi/django_start) project, which is described below:
 
-1. Register
-   ing a new user
+1. Registering a new user
 2. Logging in and authenticating a new user
 3. User access levels
 4. Uploading files
