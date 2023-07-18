@@ -1,6 +1,6 @@
 # Description of the Project
 
-This is a simple React project that I prepared to communicate with the django_start project, which is described below:
+This is a simple React project that I prepared to communicate with the [django_start](https://github.com/jalalsadeghi/django_start) project, which is described below:
 
 1. Register
    ing a new user
